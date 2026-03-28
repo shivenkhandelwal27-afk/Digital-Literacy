@@ -1,69 +1,38 @@
-# Digital Literacy Project (CSE0001)
+# 🎓 Digital Literacy Portfolio
+### **CSE0001 - Digital Literacy Project**
+**Student Digital Ambassador | VIT Bhopal University**
 
-Name: Shiven Khandelwal
+---
 
-Registration Number: 25BCE10271
+## 👤 Student Information
+> **"Empowering peers through responsible and safe digital navigation."**
 
-Branch: B.tech CSE Core
+* **Name:** [Your Name]
+* **Reg No:** [Your Registration Number]
+* **Branch:** [Your Branch, e.g., CSE-Core]
+* **Year:** First Year (2025-2029)
+* **Repo Link:** [https://github.com/shivenkhandelwal27-afk/Digital-Literacy](https://github.com/shivenkhandelwal27-afk/Digital-Literacy)
 
-Year: First Year (2025-2029)
+---
 
-Institution: VIT Bhopal University
+## 🛠 Tech Stack & Tools
+| Category | Tools Used |
+| :--- | :--- |
+| **Design** | Canva (Infographics) |
+| **Professional** | GitHub, LinkedIn, Kaggle |
+| **Technical** | HackerRank (Problem Solving) |
+| **Collaboration** | Google Forms & Sheets |
 
+---
 
-## Project Overview
+## 📂 Project Structure
+[cite_start]This repository is organized into five distinct modules, each representing a core pillar of digital literacy[cite: 14].
 
-As a Student Digital Ambassador, this repository serves as my Digital Literacy Portfolio. It documents my journey through five core modules, demonstrating my ability to communicate professionally, collaborate via cloud tools, and stay safe in the digital landscape.
-
-
-## Module Summaries
-
-### Module 1: Digital Awareness
-
-I created an infographic using Canva that defines digital literacy and highlights essential tools and safety practices for students.
-
-Deliverable: task-1-presentation
-
-### Module 2: Digital Portfolio
-
-I established a professional presence on LinkedIn, GitHub, and Kaggle to build my academic and career network.
-
-Deliverable: task-2-portfolio
-
-### Module 3: Coding & Collaboration
-
-I practiced technical problem-solving on HackerRank and built a digital awareness quiz using Google Forms.
-
-Live Quiz Link: https://docs.google.com/forms/d/e/1FAIpQLSe0CndEnfrNCpFrBJwTNYupbtdZ79JL3XLURXtOpGMs_fJ3eQ/viewform?usp=header
-
-Deliverable: task-3-platforms
-
-### Module 4: Email Etiquette
-
-I drafted professional emails for academic and career inquiries and created a social media "Do’s and Don’ts" guide.
-
-Deliverable: task-4-email-etiquette
-
-### Module 5: Cybercrime Awareness
-
-I researched UPI fraud and developed a prevention checklist to help peers recognize and report online threats.
-
-Deliverable: task-5-cybercrime
-
-
-## Final Report
-
-The complete written report including all reflections and observations can be found in the folder below:
-
-Report Folder: []
-
-
-## Tools Used
-
-1. Design: Canva 
-
-2. Professional: GitHub, LinkedIn, Kaggle 
-
-3. Technical: HackerRank 
-
-4. Collaboration: Google Workspace (Forms/Sheets)
+```text
+.
+├── report/                     # Final Project Report (.pdf/.docx)
+├── task-1-presentation/        # Digital Literacy Awareness Infographic
+├── task-2-portfolio/           # Professional Profile Screenshots
+├── task-3-platforms/           # HackerRank Proof & Google Form/Sheet
+├── task-4-email-etiquette/     # Email Drafts & Social Media Checklist
+└── task-5-cybercrime/          # Case Study & Prevention Guide
