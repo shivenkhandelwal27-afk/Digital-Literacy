@@ -22,6 +22,7 @@
 | **Professional** | GitHub, LinkedIn, Kaggle |
 | **Technical** | HackerRank (Problem Solving) |
 | **Collaboration** | Google Forms & Sheets |
+**Google form link** - https://docs.google.com/forms/d/e/1FAIpQLSe0CndEnfrNCpFrBJwTNYupbtdZ79JL3XLURXtOpGMs_fJ3eQ/viewform?usp=header
 
 ---
 
