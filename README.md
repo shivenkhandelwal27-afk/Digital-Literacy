@@ -7,11 +7,11 @@
 ## 👤 Student Information
 > **"Empowering peers through responsible and safe digital navigation."**
 
-* **Name:** [Your Name]
-* **Reg No:** [Your Registration Number]
-* **Branch:** [Your Branch, e.g., CSE-Core]
+* **Name:** Shiven Khandelwal
+* **Reg No:** 25BCE10271
+* **Branch:** B.Tech CSE Core
 * **Year:** First Year (2025-2029)
-* **Repo Link:** [https://github.com/shivenkhandelwal27-afk/Digital-Literacy](https://github.com/shivenkhandelwal27-afk/Digital-Literacy)
+* **Repo Link:** https://github.com/shivenkhandelwal27-afk/Digital-Literacy
 
 ---
 
